@@ -102,6 +102,3 @@ I'm a developer & digital builder from India 🇮🇳<br><br>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhruvkanziya/dhruvkanziya/output/snake.svg" alt="Snake animation" />
-</div>
