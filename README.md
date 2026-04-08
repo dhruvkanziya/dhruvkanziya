@@ -4,13 +4,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhruvkanziya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvkanziya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
